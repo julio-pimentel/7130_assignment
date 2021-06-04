@@ -13,8 +13,9 @@ Next, in the Time Series Analysis, trend and seasonality are captured, forecasti
 
 
 Acknowledgements: 
-Gabriela Monteiro
-Julio Pimentel
-Henry Nguyen, Griffith University
-Julian McAuley, UCSD
-Uma Maheswari Raju, Towards Data Science
+<br>Gabriela Monteiro
+<br>Julio Pimentel
+<br>Dr. Henry Nguyen, Griffith University
+<br>Mr. Thanh Cong Phan
+<br>Julian McAuley, UCSD
+<br>Uma Maheswari Raju, Towards Data Science
